@@ -24,6 +24,7 @@ Astar and JPS algorithm **3D** in ROS
 ```
 Click to add configuration file (open Config), the configuration file path is:
   ~/catkin_ws/src/grid_path_searcher/launch/rviz_config/demo.rviz
+    
   ![2020-05-25 00-16-11屏幕截图](https://user-images.githubusercontent.com/54161710/82760094-fa621f80-9e23-11ea-94cf-f9016160647c.png)
 In rviz, click 'Panels -> tools -> +' and select the plugin *3D Nav Goal*.  
 If you have done all above, you can try the simple simulation.
